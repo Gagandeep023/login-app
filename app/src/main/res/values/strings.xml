@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="options">
+        <item>Line Supervisor</item>
+        <item>Weighment Supervisor</item>
+        <item>Territory Manager</item>
+        <item>Area Sales Manager</item>
+        <item>Regional Sales Manager</item>
+        <item>Zonal Sales Manager</item>
+        <item>Business Sales Manager</item>
+        <item>Regional Operations Manager</item>
+        <item>LIO</item>
+        <item>Audit</item>
+        <item>Accounts</item>
+        <item>HR</item>
+        <item>Hatchery Manager</item>
+
+
+    </string-array>
+
+    <string-array name="applicationList">
+        <item>Option 1</item>
+        <item>Option 2</item>
+        <item>Option 3</item>
+        <item>Option 4</item>
+        <item>Option 5</item>
+    </string-array>
+</resources>
